@@ -6,7 +6,10 @@ function App() {
       </h1>
       <p className="text-xl capitalize">
         for more information visit{' '}
-        <a href="" className="underline text-blue-500">
+        <a
+          href="https://github.com/AlexMNet/vite-react-tailwind"
+          className="underline text-blue-500"
+        >
           repo
         </a>
       </p>

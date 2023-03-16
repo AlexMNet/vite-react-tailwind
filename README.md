@@ -9,6 +9,10 @@ npx tiged alexmnet/vite-react-tailwind <your-repo-name>
 ```
 
 ```
+cd <your-repo-name>
+```
+
+```
 npm install
 ```
 

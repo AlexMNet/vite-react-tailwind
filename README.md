@@ -23,6 +23,6 @@ npm run dev
 ### Resources
 
 - [Vite](https://vitejs.dev/)
-- [React](https://beta.reactjs.org/)
+- [React](https://react.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Tiged](https://github.com/tiged/tiged)
